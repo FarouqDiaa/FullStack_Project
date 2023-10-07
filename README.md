@@ -1,6 +1,6 @@
 # Courses Web Page
 
-This is a full-stack webpage for managing courses, diplomas, and events. This project utilizes PHP, CSS, and JavaScript, along with a MySQL database for data storage.
+This is a full-stack webpage for managing courses, diplomas, and events. This project utilizes Bootstrap, PHP, CSS, and JavaScript, along with a MySQL database for data storage.
 
 ## Table of Contents
 
